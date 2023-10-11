@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alex Lubrano
+title: Alexander Lubrano
 email: lubrano.alexander@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey, I'm Alex.  I'm a Computer Science Undergrad.
+  Hey, I'm Alex.  I'm a recent Computer Science graduate.
 domain: lubranoa.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lubranoa.github.io # the base hostname & protocol for your site, e.g. http://example.com
