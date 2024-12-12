@@ -28,7 +28,7 @@ url: https://lubranoa.github.io # the base hostname & protocol for your site, e.
 github_username: lubranoa
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
