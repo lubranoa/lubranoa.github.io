@@ -33,8 +33,8 @@
   - [Skills.](#skills)
   - [Current Projects.](#current-projects)
   - [OSU Computer Science Projects.](#osu-computer-science-projects)
-  - [Hire me.](#hire-me.)
-  - [Acknowledgments.](#acknowledgments)
+  - [Hire me.](#hire-me)
+  - [Acknowledgments.](#acknowledgements)
 
 </details>
 
