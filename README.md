@@ -76,7 +76,7 @@ Here are some of the tools and technologies I have worked with:
 TODO: Section under construction. Current personal projects I am working on:
 
 ### [Invoice Automator][storage-tracker-url]
-- **Overview**: A Python application that uses Selenium to retrieve job details, openpyxl to populate Excel templates, and WeasyPrint to generate PDF invoices.
+- **Overview**: PLANNING a Python-based tool that automatically retrieves job data, applies billing rules, and generates finalized PDF invoice cover sheets for restoration projects.
 - **Tech Stack**: Python, Selenium, openpyxl, TBD
 - **Outcome**: TODO.
 
