@@ -75,9 +75,9 @@ Here are some of the tools and technologies I have worked with:
 
 TODO: Section under construction. Current personal projects I am working on:
 
-### [Storage Tracker and Biller][storage-tracker-url]
-- **Overview**: Planning and developing a storage checker/web scraper that can build storage supplement invoices using scraped job info
-- **Tech Stack**: Python, Selenium, Google Sheets API, (more to be added)
+### [Invoice Automator][storage-tracker-url]
+- **Overview**: A Python application that uses Selenium to retrieve job details, openpyxl to populate Excel templates, and WeasyPrint to generate PDF invoices.
+- **Tech Stack**: Python, Selenium, openpyxl, TBD
 - **Outcome**: TODO.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
